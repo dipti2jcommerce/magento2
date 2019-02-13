@@ -214,7 +214,7 @@ class AbstractAddress extends AbstractExtensibleModel implements AddressModelInt
     }
 
     /**
-     * Get steet line by number
+     * Get street line by number
      *
      * @param int $number
      * @return string
